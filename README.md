@@ -36,7 +36,7 @@ autumn-olive-detection/
     ├── unet_model.py                # shared u-net architecture
     ├── unet_training.py             # u-net training pipeline
     ├── unet_prediction.py           # tiled inference on full orthomosaics
-    └── unet_rgb_peak_best.pth       # trained peak-stage RGB model weights
+    └── unet_rgb_peak.pth       # trained peak-stage RGB model weights
 ```
 
 ## Pipeline
